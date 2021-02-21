@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Metal+Mania&display=swap');
+
+
 body {
   background-image: none;
 }
@@ -14,6 +17,12 @@ body {
   background-color: #ebf4fa;
   padding-top: 20px;
   overflow-x: hidden;
+}
+
+.about-header {
+  text-align: center;
+  font-family: "Metal Mania";
+  font-weight: normal;
 }
 
 .title {
